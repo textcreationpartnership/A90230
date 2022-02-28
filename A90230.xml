@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The baiting of the great bull of Bashan unfolded and presented to the affecters and approvers of the petition of the 11 September 1648. : Especially, to the citizens of London usually meeting at the Whale-bone in Lothbury behind the Royal Exchange, commonly (though unjustly) styled Levellers / by Richard Overton close-prisoner in the Tower of London.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90230</idno>
+            <idno type="STC">Wing O624</idno>
+            <idno type="STC">Thomason E565_2</idno>
+            <idno type="EEBO-CITATION">50805911</idno>
+            <idno type="OCLC">ocm 50805911</idno>
+            <idno type="VID">165265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165265)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E565[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The baiting of the great bull of Bashan unfolded and presented to the affecters and approvers of the petition of the 11 September 1648. : Especially, to the citizens of London usually meeting at the Whale-bone in Lothbury behind the Royal Exchange, commonly (though unjustly) styled Levellers / by Richard Overton close-prisoner in the Tower of London.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:165265:1" rendition="simple:additions"/> THE BAITING OF THE Great <hi>BULL</hi> of
+<hi>BASHAN</hi> UNFOLDED AND Preſented to the Affecters and appro<g ref="char:EOLhyphen"/>vers of the PETITION of the 11 <hi>Sept.</hi> 1648.</p>
+            <p>Eſpecially, to the <hi>Citizens</hi> of London uſually meeting at the <hi>Whale-bone</hi> in LOTHBURY behind the Royal Exchange, Commonly (though unjuſtly) ſtyled LEVELLERS.</p>
+            <p>By <hi>Richard Overton</hi> Cloſe-priſoner in the Tower of LONDON.</p>
+            <q>
+               <bibl>Pſal. 22. 12. 13. Pſal. 68. 28. 30.</bibl>
+               <lg>
+                  <l>Many Bulls have compaſſed me: ſtrong Buls of Baſhan have be<g ref="char:EOLhyphen"/>ſet me round.</l>
+                  <l>They opened their mouths againſt me, as a ravening and a roaring Lion.</l>
+               </lg>
+               <p>—Strengthen O God that which thou haſt wrought for us. Rebuke the Company of Spearmen, the multitude of the Bulls, with the Calves of the people, til every one ſubmit — Scatter thou the people that delight in war.</p> 
+            </q>
+            <p>Imprinted at <hi>London,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165265:2"/>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>BEing neceſſitated (by ſome over-ſudden miſdeemings from amongſt you) ſome few dayes ſince to aſſert and avow the continuance of my integrity to thoſe ſure foundations of Peace and Freedom, offered to the people of this Nation under the forme or draught of an Agreement of the People, <hi>May</hi> 1. 1649.</p>
+            <p>It hath happened with me, as with other adventurers into the publick: All pallates are not pleaſed with that Sheet intituled <hi>Overtons Defiance, &amp;c.</hi> yet falleth it out no other wiſe then I expected; It ſeems many are weak and as many are offended, and chiefly with that figurative paſſage of the <hi>Bull;</hi> eſpecially at the word
+<hi>Pox;</hi> but they need not much, did they but alſo take into their thoughts, <hi>the adulterous and wicked generation,</hi> on whom that Metaphor is made good, <hi>a people whoſe heart is waxed groſſe, and their ears dull of hearing, having cloſed their eyes, leaſt at any time they ſhould ſee, hear, un<g ref="char:EOLhyphen"/>derſtand and be converted.</hi>
+            </p>
+            <p>To ſuch a people Chriſt ſpake not but in Parables: why then to ſuch might not I uſe the Figure of the <hi>Bull of Baſon,</hi> or rather of the <hi>Bull-baiting,</hi> with all the circumſtances
+<hi>Emphaſis Gratia</hi> thereunto appeartaining? But ther's uncivill language, ſuch as becommeth not the Goſpell of Chriſt. I anſwer (my Brethren) he or ſhe (how pure or nice ſoever to the eye) that is not guilty of reall groſſe incivilities both in word and deed, let him or her throw the firſt ſtone at that ſeeming incivillity, for at moſt you can make it but ſo in appearance, and no like is the ſame. The figure is but the ſhell; will you not crack the ſhell to take out the kernell? paſſe through the Parable to the Morall thereof? I, but it jears and thats not the language of Canaan; and be it ſo: Is it not recorded that <hi>Eliah</hi> mocked the Prieſts of <hi>Baal,</hi> and ſaid, <hi>Cry aloud for he is god, either he is talking or he is purſuing his E<g ref="char:EOLhyphen"/>nemy, or he is in a journey, or peradventure he ſleepeth, and muſt be waked.</hi>
+            </p>
+            <p>Sure this was a jear to ſome purpoſe; here <hi>Eliah</hi> bid them cry aloud, &amp;c. and 'tis juſtified; then why now may not I cry ha—looe—ha—looe—&amp;c. and not be condemned? What if I had turn'd Fidler in that Paper, Chriſt himſelfe uſeth the ſimile of a Piper, ſaying, <hi>we have Piped unto you and ye have not danced</hi> (Mat.
+11. 17.) And truly I think we (the four poor Sea green Fidlers in the Tower) may take up the ſame ſaying, <hi>We have Piped unto you ever ſince the firſt of May, the moſt pleaſant tune of the AGREEMENT of the PEOPLE, but yet have not danced</hi> up ſo roundly as ſo ſprightly a tune deſerves. But you will ſay (it may be) I am ſtill in the language of
+<hi>Aſhdod</hi> (as perchance you may take it) or that this Dialect is of Conſanguinity with the other: Tis true; things (however in themſelves) are to others as they are taken. He that ſhould take the Parable of
+<hi>Dives</hi> and <hi>Lazarus</hi> in the <hi>here letter</hi> (how known Cannonical ſoever in its own genuine ſence) he muſt explode it the
+<pb facs="tcp:165265:2"/> Scriptures, and at beſt give it but a place in the Apocrypha, for the Letter or character thereof (if that muſt be the ſenſe) is contradictory to the body of di<g ref="char:EOLhyphen"/>vinity, except you wil ſay, to beleeve that the rich Clutton &amp; the Begger left not their eyes, tongues, fingers, &amp;c. in the grave is Orthodox. And ſo of my Metaphor of the
+<hi>Bull,</hi> the uſe of the word <hi>Genitals, Pox, &amp;c.</hi> you may ſay is uncivill in the <hi>Letter,</hi> but how uncivill I pray in the
+<hi>Morall?</hi> Know yee not that whoſoever ſhall but faſten on the
+<hi>Genitors</hi> or <hi>Parents</hi> of the <hi>peoples ruine,</hi> ſo, as to pinch the grand Impoſters and deluders of the times, he burns his Fingers, is ſmit with the <hi>Morbus Gallicus</hi> of the <hi>exſlaving Sword;</hi> For, what's he, that is preciſely honeſt to the Common-wealth, that can ſcape perſecution? As it hath been of old and is ſtill in things ſpirituall, <hi>He that will live godly in Chriſt Jeſus ſhall ſuffer perſecution;</hi> ſo he now, that will but faithfully diſcharge his duty to the publick, ſhall be ſure to be caſt upon the <hi>Fiery Tryall,</hi> that <hi>Dogs mouth</hi> (as after the Metaphor) ſhall be ſure to be
+<hi>burnt,</hi> and tis well he ſcapes hanging as the time goes.</p>
+            <p>Now I pray, to how much incivility doth this amount? Is it ſo worthy your ſecond condemnings as it may not be indulg'd with a favourable eye? Love envyeth not, it judgeth the beſt; I had thought with two or three mer<g ref="char:EOLhyphen"/>ry Jiggs to attempt an uproar in all the laughters in <hi>England,</hi> but I ſee you are a company of dull ſouls, mirth with you is like a Shoulder of Mutton to a ſick Horſe, or worſt, you ſtrait convert into malancholy, trample it under your feet, turne againe, and are (ſome of you) ready to rent me; He that had caſt Pearls before Swine could have expected no leſſe.</p>
+            <p>Indeed, you looked (many of you) upon me as in a Sownd at my cloſe Impriſonment; but truly, when I came abroad with that ignorant Sheet, it found you in a deed ſleep, as men in a <hi>Trans,</hi> portending, as if the <hi>Cham<g ref="char:EOLhyphen"/>pions of the Eleventh of September</hi> had been
+<hi>Sparrow-blaſted</hi> with the buſi<g ref="char:EOLhyphen"/>neſſe of <hi>Burford:</hi> And I eſſayed, to put you out of your dumps, and mind you of the <hi>Agreement of the People</hi> as the <hi>center,</hi> or <hi>ne plus ultra</hi> of all our Engage<g ref="char:EOLhyphen"/>ments; but it ſeems it proved but as muſick to the houſe of Mourning: yet however, it hath ſo far gained its end; if by it you wil not be provoked to your duties equally with us, it hath awaked you into a little diſcourſe <hi>pro &amp; con,</hi> though it be but to point at my weaker parts, and that's better then no<g ref="char:EOLhyphen"/>thing, if rightly applyed, for <hi>ex nihila nil fit:</hi> by this you may take notice of your own infirmities in ſo
+<hi>wire-drawing</hi> of <hi>mine:</hi> Certainly, it may provoke you to conſider of what ſpirits you are, not unlike ſuch as ſtrain at a Gnat &amp; ſwallow a Camel, that uſually in any diſcourſe paſſe over what concerneth themſelves, though of never ſo ſerious and weighty conſideration in point of their duties, and betake themſelves wholly to ſpye out the ſpots and in<g ref="char:EOLhyphen"/>firmities thereof, and of the Author, and fall foul thereupon, and ſo ſleight their duties, ſtifle and ſmother the thing that is good: And now (my tender friends) I pray tell me what Spirit is this? 'tis a <hi>foul ſpirit,</hi> away with't for ſhame; go purge; goe purge; one penniworth of the <hi>Agreement of the
+<pb facs="tcp:165265:3"/> people,</hi> with a little good reſolution taken morning and evening, will work out this corruption, cleanſe and purifie the bloud, and put a period to this diſtinction of parties, allay the feude and diviſion of the people, and ſtate us in firme Freedom, Safety and Peace; and then there will be none of this catching and carping, this lying in wait to ſnap at infirmities; and till the Agreement be ſetled, this is not to be expected.</p>
+            <p>I have known, when things as unſerious as my laſt ſheet, dreſt out in the youthfull attire of mirth, hath found a very large acceptance not only with you, but even with this generation of men, that are now the Enemies of the People; and I think if I have not forgot the
+<hi>Arraignment of Perſecution,</hi> and ſome other things of that nature, that I my ſelf have been one of thoſe who have had the honour of ſuch acceptances: But <hi>O tempora</hi> I <hi>O Mores</hi> I how few are the ſame yeſterday and to day? ſucceſſe changeth mens minds as the wind doth the weathercock.</p>
+            <p>But (my friends) your <hi>gravity</hi> (which I am affraid hath too much of Melancholy in it) cannot more move me to a more ſerious Dialect, then my own affections incline me, I prize both in their places; as I affect the one, I reſpect the other: for ſure, modeſt mirth tempeted with due gravity makes the beſt compoſition, moſt naturall and harmonious: God in the temper of our natures as he hath made us <hi>Earth,</hi> ſo hath he enlivened that dull lump with the <hi>Element of Fire,</hi> which is the
+<hi>forma formans,</hi> the giver and preſerver of being and motion, and the Original of that habit of laugh<g ref="char:EOLhyphen"/>ter: Therefore <hi>Mirth</hi> ſure is of
+<hi>Divine inſtinct,</hi> and I think I may boldly ſay, more naturall then Melancholy, and leſſe ſavours of the Curſe. Nature in its Creation was pure and good, void of corruption, or any thing ob<g ref="char:EOLhyphen"/>noxious or deſtructive: all miſery and miſchiefe came in with the fall, as a Curſe upon the Creature, as Death, ſorrow, tears, pains, &amp;c, in which num<g ref="char:EOLhyphen"/>ber you may reckon Melancholy, for 'tis both unnaturall and deſtructive to nature, and ſo fitly reputed a branch of the Curſe, and 'tis the root of the
+<hi>root</hi> of all wickedneſſe, <hi>Coveteouſneſſe;</hi> for where have you ſeen a Melan<g ref="char:EOLhyphen"/>choly man that's not covetous? and a covetous man ſeldom proves a good Common-wealths man: yet this ill <hi>Weed</hi> is gotten into ſo religious an e<g ref="char:EOLhyphen"/>ſteem that <hi>all</hi> our <hi>Religion</hi> is turn'd into <hi>Melancholy;</hi> that, he that cannot <hi>whine, pipe, weep and hang down his head like a Bulruſh and ſeem ſad unto men,</hi> is prophane, light, hath not any thing of God in him, is a Reprobate, is con<g ref="char:EOLhyphen"/>demned and cenſured of all, as neither fit for Church nor Common wealth; And thus comes it to paſſe; my mirth is heightned to ſuch a tranſgreſſion, even to caſt me under the preſent <hi>Anathama</hi> of the now godly party.</p>
+            <p>But my Brethren of the <hi>Sea green Order,</hi> take a little wine with your wa<g ref="char:EOLhyphen"/>ter, and ile take a little water with my wine, and it will temper us to the beſt conſtitution. I wonder what meaneth your late dulneſſe of motion, ap<g ref="char:EOLhyphen"/>pearing as men in a dream, or as if you were another ſort of people then the
+<pb facs="tcp:165265:3"/> Authors, promotors, approvers and preſenters of the Petition of the 11 of <hi>Sept.</hi> that people uſe to be the moſt active and vigorous People in <hi>England</hi> for publick Freedom and ſafety, they uſe to fear no colours, the more they were preſt down the more they preſt forward, and the more they enereaſed; few months have paſſed that they have not in point of Common-Right produced ſome <hi>eminent peece:</hi> but your heads have drooped of late, nothing hath appeared, not one punctilio in ſupportation and promotion of the <hi>Agreement;</hi> deep ſilence hath covered you; fie, fie; be not cow'd out of your abilities and principles by the preſent rage of the wicked: compare but the ſtrength of your principles and the ſtrength of an Army, and tell me which is ſtronger: How many perſecuting powers have fallen before your principles as <hi>Dagon</hi> before the <hi>Ark?</hi> and who hath been able to ſtand be<g ref="char:EOLhyphen"/>fore them, even from <hi>Epiſcopacy</hi> to this whited and <hi>Jeſabel</hi> like painted
+<hi>In<g ref="char:EOLhyphen"/>dependency?</hi> Think you, that this unparallell'd tyranny, under this new name, more fierce and cruel then his fellows, trampling the reſidue under its feet, that it ſhall ſcape the vengeance of Gods wrath more then its Predeceſſors? no, no; Gods <hi>Motto</hi> is <hi>ſemper Idem.</hi> Be not therefore diſmayed or daunted at the height and magnificence of this inſolent faction, the now <hi>ſons of Per<g ref="char:EOLhyphen"/>dition,</hi> that are ſet up to deceive if it were poſſible the very Elect.</p>
+            <p>It is your own evill and weakneſſe, and of thoſe that are Profeſſors and pretenders to the ſame principles with you, that our Cauſe is thus under a Cloud: would you all act together, all ſuffer together, all be as one; and not thus (as ſome amongſt you Commonally uſe) hang back in the adverſi<g ref="char:EOLhyphen"/>ty, and be ſeen in the Van of Proſperity not daring when the ſtorme rageth, to peep into the tempeſt for fear of being blowne away) we ſhould not be at this paſſe with out Cauſe.</p>
+            <p>When there is any thing of venture or hazard, while 'tis in the
+<hi>Embrie,</hi> who's not then buſie and forward? but when 'tis put upon the perſonall teſt for execution, O then one hath bought a piece of ground, and muſt be excuſed; another a yoke of Oxen, and he muſt goe ſee them; and a third hath marryed a wife and therefore muſt pleaſe her.</p>
+            <p>Friends, be not offended, this is a crime deſerves your repentance; I con<g ref="char:EOLhyphen"/>demn you not all, it is but ſome few; <hi>A little Leaven you know leaveneth the whole Lump;</hi> therefore do ye beware of the Leaven of the phariſees; it much retardeth your motions and blaſteth their fruits; the publick is a loſer thereby, and your Cauſe receiveth dammage: let thoſe whom this pincheth, be thereby provoked to amendment, it is worthy their care: For know you not, that it is many hands make light work? If the ſtreſſe or weight of the work be laid upon one, or ſome 3 or 4, it muſt needs goe on ſlowly: Why, is not he that's moſt backward as forward as the beſt? it is his Cauſe as much as it is any mans, and thereto in duty as much obliged as any. We are no more concerned then your ſelves, 'tis but upon the point
+<pb facs="tcp:165265:4"/> of common duty (which binds all) to our Country, that we ſuffer, and we count it our Joy, for that we know we ſuffer for well-doing, and though we periſh in the Work, our Reward ſhall goe with us,
+<hi>for our Redeemer liveth,</hi> and that is our ſtay. Therefore why ſtand you ſtill, and are not provoked to this good Emulation; be as active and vigilant, and you ſhall ſhare in the rejoycing, and 'tis ſuch (I muſt tell you my Friends) is worth your having; <hi>Dulce eſt pro patria pati.</hi>
+            </p>
+            <p>Fear not thoſe Hils and Mountains that are in your way; it is but your want of faith that they are not removed, and caſt into the bottome of the ſea: While you lift up your heads, are vigorous and active, your principles preſent you as Steeples above the reſt of the people; every man is a ſtrong Barricado in the way of the Enemy, and your principles flouriſh and get ground, but when you are fearfull, are ſlat or remiſſe, then they retire and fade; for they are ſaid to increaſe or diminiſh, as they get or loſe ground in the underſtanding or acceptance of others: And this ever take as a ſure Rule, That the moſt vertuous and ſaving principles in a perſon moſt un<g ref="char:EOLhyphen"/>daunted and faithfull, the more they are ſuppreſt, and the more he is per<g ref="char:EOLhyphen"/>ſecuted, the more they proſper and ſpread; of ſo mighty an efficacy are his ſufferings and teſtimony; as, in the caſe of
+<hi>Paul</hi> is witneſſed, <hi>Now I would</hi> (ſaith he) <hi>ye ſhould underſtand, Brethren, that the things that hapned unto me, have faln out rather to the furtherance of the Goſpel; ſo that my bonds in Chriſt are manifeſt in all the Pallace, and in all other places, and many of the Brethren in the Lord waxed confident by my Bonds, are much<g ref="char:EOLhyphen"/>more bold to ſpeak the Word without fear:</hi> And this is all the perſecutor gaineth upon the undaunted Aſſerters of righteouſneſs; his own ſword is turned into his own bowels: perſecution, as the Viper, devoureth its own parent. Then faint ye not (my friends) rouſe up your heads and be vali<g ref="char:EOLhyphen"/>ant; lift up your
+<hi>Agreement of the people again,</hi> and put it upon the pub<g ref="char:EOLhyphen"/>lick ſtage for promotion and ſubſcription, and doubt not: <hi>What man that there is amongst you, that is fearfull and faint-hearted, let him depart your Meetings, and return to his houſe:</hi> the more the Enemy ſtormeth, the more reſolute and vigorous be ye; give them enough of perſecution; the more they perſecute, the more doe ye appear, that your Bands may be fa<g ref="char:EOLhyphen"/>mous; for with ſetters, Irons, and prifon-walls you may ſhake them to pieces; 'tis their tyrannies cruelties, and oppreſſions muſt be their Fall, through which you muſt eat your way for <hi>the Agreement.</hi>
+            </p>
+            <p>I highly honor the fidelity and valor of Mr. <hi>Chreſtopher Chiſman,</hi> who not<g ref="char:EOLhyphen"/>withſtanding his Impriſonment, his abuſes and ſufferings, hath not wrapt up his talent in a napkin, but like a good and faithful ſervant hath improv'd his impriſonment to the publick advantage; ſee his Book, entituled, <hi>The Lamb contending with the Lion,</hi> 'tis worthy your imitation, Let your light (as his) ſo ſhine before men, that they may ſee your good Works, and glorifie your
+<pb facs="tcp:165265:4"/> Cauſe; fear no dangers; the high and mighty Cedars are never able to overtop your principles; what though Ambition hath mounted to the title of <hi>Lord Governour</hi> (forſooth) hath not your vigorous principles ſlain both the Lyon and the Bear, and ſhall not this
+<hi>uncirumciſed P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iliſtne</hi> be as one of them?</p>
+            <p>But (my friends) I am informed thoſe painted Sepulchers of Indepen<g ref="char:EOLhyphen"/>dency deſire your complyance and treaty with them: But touch pitch, and you ſhall be defiled, have nothing to do with them; <hi>touch not, taſt not, handle not, which all are to periſh with the uſing;</hi> Remember the fidelity of <hi>Uriah</hi> to <hi>David: The Ark, and Iſrael, and Judah abide in Tents, and my Lord Joab, and the ſervants of my Lord are encamped in the open fields, ſhall I then go into my houſe, to eat and to drink and to lye with my wife? As thou liveſt and as thy ſoul liveth, I wil not do this thing.</hi> Your <hi>Agree<g ref="char:EOLhyphen"/>ment</hi> lyeth half dead in the ſtreets, your friends and its aſſertors are in pri<g ref="char:EOLhyphen"/>ſon, with ſentinels at their doors, denied the acceſs and viſitation of friends, have the catch-poles of the Counſel of State enter their chambers when they are in bed) with Musketteers at their heels, ſearch, rifly catch and take away any thing that any way they may wreſt unto their bloody ends againſt them, as formerly, and now, the other day (July 4.) they have done, and all the land mourneth and groaneth at the calamity and miſe<g ref="char:EOLhyphen"/>ries upon it for want of the ſettlement of a juſt conſtitution of Government; and ſhall you go unto them (thoſe peſts and vipers of the Nation) to treat or comply? As you live and as your ſoul liveth you muſt not do this thing:</p>
+            <p>While your agreement is trod under their feet, your friends under their cruel captivity, &amp;c. let him that treateth with them amongſt you, or with any of their creatures, or keepeth any correſpondency with them, be to you as a <hi>Reprobate,</hi> let the <hi>Marke of Cain</hi> be ſet upon him, that every finger may point at him for a Traytor, and a <hi>Judas</hi> to the people that meeteth him.</p>
+            <p>If a wife or a child be like to be deſtroyed by fire, water, or thieves, he accounts himſelf baſe that dare not venture his own life to ſave theirs: our cauſe is of a more tranſcendent valu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and we ſuffer for it; and can you ſee <hi>it</hi> deſtroyed in <hi>us,</hi> and <hi>we</hi> for
+<hi>it,</hi> and not be as naturall as in a private relati<g ref="char:EOLhyphen"/>on? the lives, liberties, and freedomes of <hi>all</hi> is contained in <hi>it?</hi> If your neighbours Oxe or his Aſſe were in a ditch, it is a ſhame to paſſe by and not to help; and behold, here's <hi>all in the ditch,</hi> then, why venture you not your time, your labours, your monies, <hi>&amp;c.</hi> to redeeme out all, <hi>our Cauſe,</hi> the nation, and us <hi>in it,</hi> and
+<hi>with it.</hi>
+            </p>
+            <p>I confeſſe no people in <hi>England</hi> have beene more vigorous, more active and diligent, and more adventurous for the Cauſe of the Nation, and for nor Liberties then moſt of you: we have been as precious to you as the ap<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:165265:5"/> of your eye; you have ſpared no huzard, no toyle or time to get us at free<g ref="char:EOLhyphen"/>dome, and I hope we ſhall never be ſo ungratefull as not thankfully to re<g ref="char:EOLhyphen"/>member that ſervice of Love: To you we are obliged in the deepeſt obliga<g ref="char:EOLhyphen"/>tions of any others in <hi>England.</hi>
+            </p>
+            <p>But now conſidering the extream neceſſity of your ſtill conſtant unwearied proſecution. I have emboldened my ſelf to preſſe you forward to the <hi>good work of the people,</hi> that at this time you may be as vigilant and induſtrious as at any other, that publick life and ſpirit, may ſtill be preſerved and encreaſed in our cauſe, even in theſe worſt of times.</p>
+            <p>And if I have been a little too ſharp in my advice, and admoniſhment, impute it I pray you to the heat of my zeal and ardent affections to the promotion of that Cauſe; for tru<g ref="char:EOLhyphen"/>ly to me it is as the life of my life; without it I'm nothing, with it I live, and therein am</p>
+            <closer>
+               <dateline>From my cloſe impriſonment in the tower of
+<hi>London</hi>
+                  <date>
+                     <hi>July</hi> the ninth, 1649.</date>
+               </dateline>
+               <signed>Yours and every mans as my own <hi>RICHARD OVERTON.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
